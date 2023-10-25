@@ -1,0 +1,23 @@
+{
+  "name": "hallvard-enviroment",
+  "version": "1.0.0",
+  "description": "Lesson activity",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hallvard-Benan/hallvard-enviroment.git"
+  },
+  "keywords": [
+    "workflow"
+  ],
+  "author": "Hallvard Benan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hallvard-Benan/hallvard-enviroment/issues"
+  },
+  "homepage": "https://github.com/Hallvard-Benan/hallvard-enviroment#readme"
+}
